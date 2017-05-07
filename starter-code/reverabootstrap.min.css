@@ -1,1 +1,1 @@
-body{background-color:white}.container{background-color:#EFEFF1}.row{background-color:red}.col-sm-4{background-color:yellow}
+body{background-color:white}.container{background-color:white}.row{background-color:red}.col-sm-4{background-color:yellow}.header-text span,.header-text section{display:inline-block;vertical-align:middle}.header-list{padding-left:270px}.header-list span{padding-left:15px}.header-list span a{color:#8E8E8F;text-decoration:none}.header-list span a:hover{color:red}
