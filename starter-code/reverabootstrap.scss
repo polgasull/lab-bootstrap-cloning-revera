@@ -63,3 +63,18 @@ body {
   border: 1px solid white;
   padding: 7px 25px 7px 25px;
 }
+
+.mainBanner {
+  background-color: #ED564B;
+  height: 300px;
+  text-align: center;
+  color: white;
+}
+
+.glyphicon-glass,.glyphicon-star, .glyphicon-heart {
+  border-radius: 50%;
+  border: 5px solid white;
+  padding: 20px;
+  margin-top: 40px;
+  font-size: 20px;
+}
