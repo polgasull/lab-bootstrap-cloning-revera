@@ -6,9 +6,9 @@ body {
   background-color: white;
 }
 
-.row {
-  background-color: red;
-}
+// .row {
+//   background-color: red;
+// }
 
 .col-sm-4 {
   background-color: yellow;
@@ -34,4 +34,32 @@ body {
 
 .header-list span a:hover {
   color: red;
+}
+
+.carousel-inner {
+  height: 470px;
+}
+
+.item img {
+  background-repeat: no-repeat;
+  width: 100%;
+  filter: grayscale(100%) brightness(70%);
+
+}
+
+.slider {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  margin-top: 180px;
+  color: white;
+  position: absolute;
+  z-index: 1;
+}
+
+.readMore span {
+  border: 1px solid white;
+  padding: 7px 25px 7px 25px;
 }
